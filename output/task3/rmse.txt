@@ -1,0 +1,1 @@
+Root Mean Square Error (RMSE) on test data = 342.26267846033136
